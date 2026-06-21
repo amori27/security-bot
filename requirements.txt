@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+imageio==2.33.1
+numpy==1.24.3
+requests==2.31.0
+pyaudio==0.2.13
+gTTS==2.3.2
+pydub==0.25.1
