@@ -1,5 +1,8 @@
 # Security Surveillance Bot v2.0
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 A comprehensive motion-detection surveillance system with Telegram integration, video/audio recording, thermal heatmaps, and RTSP stream playback.
 
 ## Features
